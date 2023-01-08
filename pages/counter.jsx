@@ -6,7 +6,7 @@ const Counter = () => {
     <div>
         
          <h1>
-         {count}
+                  {count}
     
          </h1>
     
